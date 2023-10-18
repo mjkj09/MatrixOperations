@@ -1,0 +1,10 @@
+# ninja log v5
+13	168	7193611460434553	CMakeFiles/5_6.dir/matrix_utils.c.obj	189a04935836823a
+158	289	7193618082490954	5_6.exe	999cfcc7dd1286ed
+2	157	7193618081207159	CMakeFiles/5_6.dir/MatrixOperationsFromFiles.c.obj	95d7d7a4f822bd94
+0	127	7193619167467457	build.ninja	51aa65739a75b2b
+15	197	7193619521295568	CMakeFiles/5_6.dir/MatrixOperationsFromFiles.c.obj	faf7710024096db3
+3	203	7193619521349475	CMakeFiles/5_6.dir/matrix_utils.c.obj	5bffeccfa7f67554
+204	356	7193619522838190	5_6.exe	999cfcc7dd1286ed
+2	170	7193622071492891	CMakeFiles/5_6.dir/MatrixOperationsFromFiles.c.obj	faf7710024096db3
+171	313	7193622072873355	5_6.exe	999cfcc7dd1286ed

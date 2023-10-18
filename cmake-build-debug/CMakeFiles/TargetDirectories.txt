@@ -1,0 +1,3 @@
+D:/DANTE 2/Dynamiczna alok pamieci 2/Matrix operations on .txt and .bin files/cmake-build-debug/CMakeFiles/5_6.dir
+D:/DANTE 2/Dynamiczna alok pamieci 2/Matrix operations on .txt and .bin files/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/DANTE 2/Dynamiczna alok pamieci 2/Matrix operations on .txt and .bin files/cmake-build-debug/CMakeFiles/rebuild_cache.dir
