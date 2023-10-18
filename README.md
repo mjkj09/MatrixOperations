@@ -9,10 +9,10 @@
 Here're some of the project's best features:
 
 *   Reading matrices from scanf
-*   Saving them in .txt or .bin files
+*   Saving them in.txt or .bin files
 *   Functions which destroy them and free up memory
 *   Reading matrices from .txt and .bin files
-*   Transposing, adding, subtracting, multiplying - all in one place
+*   Transposition, addition, subtraction, multiplication - all in one place
 
 
 
